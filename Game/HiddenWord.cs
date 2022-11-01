@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
+/// Creates the hidden word that will be guessed.
+
 namespace unit03_jumper
 {
     public class HiddenWord{

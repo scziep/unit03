@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 
+///Prints the jumper as well as keeps track of the letters guessed.
+
 namespace unit03_jumper
 {
     public class Jumper{
