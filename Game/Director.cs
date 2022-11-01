@@ -4,10 +4,7 @@ using System.Collections.Generic;
 namespace unit03_jumper
 {
     /// <summary>
-    /// <para>A person who directs the game.</para>
-    /// <para>
-    /// The responsibility of a Director is to control the sequence of play.
-    /// </para>
+    /// The Director controls the game play.
     /// </summary>
     public class Director
     {
