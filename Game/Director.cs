@@ -46,7 +46,9 @@ namespace unit03_jumper
             }
         }
 
-
+        /// <summary>
+        /// Pulls the hidden word
+        /// </summary>
         private void StartUp()
         {
             chosenWord = hiddenWord.pullWord();
@@ -54,6 +56,10 @@ namespace unit03_jumper
             hiddenWord.createHiddenWord();
             hiddenWord.printGuess();
         }
+
+        /// <summary>
+        /// Checks if the letter is in the hidden word. 
+        /// </summary>
         private void GetInputs()
         {
             Console.WriteLine("\n");
