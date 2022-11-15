@@ -14,6 +14,9 @@ namespace unit03_jumper
         public HiddenWord(){
             
         }
+        /// <summary>
+        /// This is the word that will be pulled
+        /// </summary>
 
         public string pullWord(){
             string chosenWord = "chocolate";
