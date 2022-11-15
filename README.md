@@ -1,0 +1,2 @@
+JUMPER 
+This game allows the player to guess the hidden word, before the Jumper's parachute is broken apart. The player guesses letter by letter, with the inability to repeat a letter. The game then ends when the word is guessed, or the parachute is gone. 
